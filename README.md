@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Akshat-programmer-developer
 - 👀 I’m interested in programming and the computer world
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning flutter and dart
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
